@@ -1,0 +1,19 @@
+{
+  "name": "pilot-widget-iframe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malay76a/pilot-widget-iframe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malay76a/pilot-widget-iframe/issues"
+  },
+  "homepage": "https://github.com/malay76a/pilot-widget-iframe#readme"
+}
